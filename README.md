@@ -1,0 +1,1 @@
+Messenger App uses WebSocket protocol to communicate to other users in a private mode as well as in a public group. 
